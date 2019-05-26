@@ -1,0 +1,10 @@
+bin/Debug/netcoreapp2.2/ToyRobotSimulator.runtimeconfig.json
+bin/Debug/netcoreapp2.2/ToyRobotSimulator.dll
+bin/Debug/netcoreapp2.2/ToyRobotSimulator.pdb
+bin/Debug/netcoreapp2.2/ToyRobotSimulator.deps.json
+bin/Debug/netcoreapp2.2/ToyRobotSimulator.runtimeconfig.dev.json
+obj/Debug/netcoreapp2.2/ToyRobotSimulator.dll
+obj/Debug/netcoreapp2.2/ToyRobotSimulator.pdb
+obj/Debug/netcoreapp2.2/ToyRobotSimulator.assets.cache
+obj/Debug/netcoreapp2.2/ToyRobotSimulator.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp2.2/ToyRobotSimulator.csproj.FileListAbsolute.txt
